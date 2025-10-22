@@ -124,7 +124,3 @@ npm run preview
 * Node.js (para scripts de compilación)
 * HTML/CSS (para personalización adicional)
 
-
-
-¿Quieres que haga eso?
-```
