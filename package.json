@@ -1,0 +1,17 @@
+{
+  "name": "email-funiber",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npx mjml src/templates/*.mjml -o dist/",
+    "watch": "npx mjml -w src/templates/template_es_ec.mjml -o dist/template_es_ec.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mjml": "^4.16.1"
+  }
+}

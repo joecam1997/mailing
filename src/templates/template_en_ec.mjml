@@ -1,0 +1,61 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-all font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial"/>
+      <mj-text font-size="16px" color="#333333"/>
+      <mj-button background-color="#0b5fff" color="#ffffff" border-radius="6px" padding="12px 22px" font-weight="600"/>
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#f5f7fb">
+
+    <!-- Logo -->
+    <mj-section background-color="#ffffff" padding="20px 0">
+      <mj-column>
+        <mj-image src="https://i.ibb.co/4kDcZDJ/logo-search-grid-2x.png" alt="Logo" width="200px"/>
+      </mj-column>
+    </mj-section>
+
+    <!-- Contenido principal -->
+    <mj-section background-color="#ffffff" padding="20px">
+      <mj-column>
+        <mj-text font-size="22px" font-weight="700">Technology Innovation 2025</mj-text>
+        <mj-text line-height="1.5">
+          Join us for our annual event where we will explore the latest trends in technology and innovation. It will be a unique opportunity to connect with industry experts and discover new tools for your organization.
+        </mj-text>
+        <mj-divider border-color="#e0e0e0" padding="18px 0"/>
+        <mj-text><strong>Date and time:</strong> October 25th, 2025. 14h00</mj-text>
+        <mj-button href="https://example.com/registro?lang=en&country=ec" align="left" padding-top="18px">Register now</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- Banner -->
+    <mj-section background-color="#ffffff" padding="0">
+      <mj-column>
+        <mj-image 
+          src="https://i.ibb.co/fzV2jyT8/Chat-GPT-Image-15-oct-2025-20-30-16.png" 
+          alt="Banner" 
+          width="600px" 
+          border-radius="8px"
+          fluid-on-mobile="true"
+        />
+      </mj-column>
+    </mj-section>
+
+    <!-- Pie de página institucional -->
+    <mj-section background-color="#ffffff" padding="18px 0 28px 0">
+      <mj-column>
+        <mj-text font-size="13px" color="#666666">Av. Amazonas N34-232 and Av. Colón, Quito – Ecuador</mj-text>
+        <mj-text font-size="12px" color="#999999">If you no longer wish to receive our emails, you can <a href="#">unsubscribe</a>.</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Footer -->
+    <mj-section padding="8px">
+      <mj-column>
+        <mj-text align="center" font-size="11px" color="#aaaaaa">© 2025 Institution. All rights reserved.</mj-text>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>
